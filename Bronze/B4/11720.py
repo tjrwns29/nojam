@@ -1,2 +1,2 @@
-N1 = int(input())
-N2 = int(input())ㅇㅇㅇ
+count = int(input())
+num = int(input())
