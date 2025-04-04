@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 int main() {
-  int a;
+	int a;
 
-  scanf("%d", &a);
-  printf("%d", a - 543);
+	scanf("%d", &a);
+	printf("%d", a - 543);
 }

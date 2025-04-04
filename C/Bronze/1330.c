@@ -1,14 +1,14 @@
 #include <stdio.h>
 
 int main() {
-  short a, b;
+	short a, b;
 
-  scanf("%hd %hd", &a, &b);
+	scanf("%hd %hd", &a, &b);
 
-  if (a > b) {
-    printf(">");
-  } else if (a < b) {
-    printf("<");
-  } else
-    printf("==");
+	if (a > b) {
+		printf(">");
+	} else if (a < b) {
+		printf("<");
+	} else
+		printf("==");
 }
